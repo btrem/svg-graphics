@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 14 16">
+  <title>menu</title>
+  <rect height="16" width="14" rx=".5"/>
+  <g fill="#fff">
+    <rect id="bar" x="1" y="3" height="2" width="12" rx="1"/>
+    <use xlink:href="#bar" y="4"/>
+    <use xlink:href="#bar" y="8"/>
+  </g>
+</svg>
