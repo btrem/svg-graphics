@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 20 16" width="22" height="20">
+    <title>coffee cup</title>
+    <g stroke="#000" fill="#fff">
+        <circle class="handle" cx="16.5" cy="8.5" r="2.5" />
+        <path class="cup"
+              d="M 1,5 v 7.5 q 0 3 4 4 h 7 q 3 0 4 -4 v -7.5 z" />
+        <g class="steam">
+            <line x1="5" y1="0" x2="5" y2="3"/>
+            <line x1="8.5" y1="0" x2="8.5" y2="3"/>
+            <line x1="12" y1="0" x2="12" y2="3"/>
+        </g>
+    </g>
+</svg>
