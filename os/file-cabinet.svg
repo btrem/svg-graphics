@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <title>file</title>
+  <g stroke="#000" fill="#fff">
+    <rect class="cover" x="1" y="1" height="3" width="16"/>
+    <rect class="box" x="2" y="4" height="9" width="14"/>
+    <line class="handle" x1="7.5" y1="7" x2="11" y2="7"/>
+  </g>
+
+</svg>

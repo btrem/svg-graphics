@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 21">
+  <title>search</title>
+  <g stroke="#000" fill="white">
+    <circle class="glass" cx="6" cy="6" r="5.5"/>
+    <line class="connector" x1="6" y1="11" x2="6" y2="13"/>
+    <g class="handle" stroke-width="1.3">
+      <line x1="6" y1="13.2" x2="6" y2="18"/>
+      <line x1="6" y1="18" x2="6" y2="20" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
