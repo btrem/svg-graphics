@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 18">
+  <title>monitor</title>
+  <g stroke="#000" fill="#fff" stroke-linecap="round">
+    <rect y="4.2" height="10" width="15" rx="1"/>
+    <line x1="7.5" y1="4" x2="4" y2="1"/>
+    <line x1="7.5" y1="4" x2="11" y2="1"/>
+  </g>
+</svg>
