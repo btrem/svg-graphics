@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 21 21">
+    <title>triangle</title>
+    <g stroke="#000" fill="#fff">
+        <polygon class="handle" points="8,15 8,19 11,16"/>
+        <polygon class="left-wing" points="8,15 20,1 1,12"/>
+        <polygon class="right-wing" points="8,15 20,1 15,20"/>
+    </g>
+</svg>
