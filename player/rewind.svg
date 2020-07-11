@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+    <title>rewind</title>
+    <circle class="container" cx="10" cy="10" r="9"/>
+        <g class="command" fill="#fff" stroke="#fff"
+           stroke-width="1" stroke-linejoin="round">
+        <polygon points="5,10 9,6 9,14"/>
+        <polygon points="9,10 13.5,6 13.5,14"/>
+    </g>
+</svg>

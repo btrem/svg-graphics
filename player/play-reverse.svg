@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <title>play in reverse</title>
+  <circle class="container" cx="10" cy="10" r="9"/>
+  <polygon class="command"
+           points="6.5,10 11.5,6 11.5,14"
+           fill="#fff" stroke="#fff"
+           stroke-width="1" stroke-linejoin="round"/>
+</svg>
