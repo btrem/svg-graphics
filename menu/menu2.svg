@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      viewBox="0 0 18 18">
-  <title>menu</title>
-  <circle cx="9" cy="9" r="9"/>
-  <g fill="#fff">
-    <rect id="bar" x="4" y="4" height="2" width="10" rx="1"/>
-    <use xlink:href="#bar" y="4"/>
-    <use xlink:href="#bar" y="8"/>
-  </g>
+    <title>menu</title>
+    <circle cx="9" cy="9" r="9"/>
+    <g fill="#fff">
+        <rect id="bar" x="4" y="4" height="2" width="10" rx="1"/>
+        <use xlink:href="#bar" y="4"/>
+        <use xlink:href="#bar" y="8"/>
+    </g>
 </svg>
