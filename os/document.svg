@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19">
+    <title>file</title>
+    <path class="page" d="M1,1 v17 h12 v-13 l-4,-4 z"
+          stroke="#000" fill="#fff"/>
+    <path class="fold" d="M9,1 v4 h4"
+          stroke-width="0.7" stroke="#000" fill="none" />
+    <g class="writing" stroke="#777">
+        <line x1="3" y1="8" x2="11" y2="8" />
+        <line x1="3" y1="10" x2="10" y2="10" />
+        <line x1="3" y1="12" x2="11" y2="12" />
+        <line x1="3" y1="14" x2="7" y2="14" />
+    </g>
+</svg>

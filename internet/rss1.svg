@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 11">
+  <title>rss feed</title>
+  <g stroke="#000">
+    <circle cx="2.5" cy="8.5" r="1"/>
+    <g fill="none" stroke-linecap="round" stroke-width="2">
+      <path d="M2,5 Q6,5 6,9"/>
+      <path d="M2,2 Q9,2 9,9"/>
+    </g>
+  </g>
+</svg>
