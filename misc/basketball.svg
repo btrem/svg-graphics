@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+    <title>basketball</title>
+    <circle class="ball" cx="11" cy="11" r="10"/>
+    <g class="seams" stroke="#ddd" stroke-width="0.7" fill="none">
+        <line x1="11" y1="1" x2="11" y2="21"/>
+        <line x1="1" y1="11" x2="21" y2="11"/>
+        <path d="M4,4 Q 11,11 4,18"/>
+        <path d="M18,4 Q 11,11 18,18"/>
+  </g>
+</svg>

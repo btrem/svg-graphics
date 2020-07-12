@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19">
+    <title>graph</title>
+    <g stroke="#000" fill="none">
+        <path class="axes" d="M1,1 v17 h17"/>
+        <g class="bars" stroke-width="3.5">
+            <line x1="5" y1="18" x2="5" y2="8" />
+            <line x1="10" y1="18" x2="10" y2="4" />
+            <line x1="15" y1="18" x2="15" y2="14" />
+        </g>
+    </g>
+</svg>

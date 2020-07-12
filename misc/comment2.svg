@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 17">
+    <title>comment</title>
+    <path class="speechBubble" stroke="#000" fill="#fff"
+          d="M8,9
+            h-7
+            v-8
+            h18
+            v8
+            h-7
+            l-2,6
+            z
+            "/>
+</svg>
