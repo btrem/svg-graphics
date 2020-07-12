@@ -2,13 +2,15 @@
      viewBox="0 0 20 16" width="22" height="20">
     <title>coffee cup</title>
     <g stroke="#000" fill="#fff">
-        <circle class="handle" cx="16.5" cy="8.5" r="2.5" />
         <path class="cup"
-              d="M 1,5 v 7.5 q 0 3 4 4 h 7 q 3 0 4 -4 v -7.5 z" />
+              d="M 1,5 v 7.5 q 0,3 4,4 h 6 q 3,0 4,-4 v -7.5 z" />
+        <path class="handle"
+              d="M 15,5 Q 20,7.5 15,10 Z"
+              stroke-linejoin="bevel"/>
         <g class="steam">
-            <line x1="5" y1="0" x2="5" y2="3"/>
-            <line x1="8.5" y1="0" x2="8.5" y2="3"/>
-            <line x1="12" y1="0" x2="12" y2="3"/>
+            <line x1="4" y1="0" x2="4" y2="3"/>
+            <line x1="7.5" y1="0" x2="7.5" y2="3"/>
+            <line x1="11" y1="0" x2="11" y2="3"/>
         </g>
     </g>
 </svg>
