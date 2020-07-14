@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 20">
+    <title>cart</title>
+    <g stroke="#000" stroke-linecap="round">
+        <path class="handle" fill="none"
+              d="M1,2 h3 l1,3"/>
+        <polygon class="basket"
+                 fill="#fff" stroke-linejoin="round"
+                 points="5,5 25,5 22,14 8,14"/>
+        <g class="basket spokes">
+            <line x1="7" y1="10" x2="23" y2="10"/>
+            <line x1="10" y1="5" x2="11.5" y2="14"/>
+            <line x1="15" y1="5" x2="15" y2="14"/>
+            <line x1="20" y1="5" x2="19" y2="14"/>
+        </g>
+        <path class="bottom" fill="none"
+              d="M8,14 l0.6,1.8 h3 v1.5 v-1.5 h7 v1.5 v-1.5 h3"/>
+    </g>
+    <g class="wheels" stroke="#fff" stroke-width=".1">
+        <circle cx="11.6" cy="18.5" r="1.2" />
+        <circle cx="18.6" cy="18.5" r="1.2" />
+    </g>
+</svg>
