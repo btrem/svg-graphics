@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 16">
+    <title>envelope</title>
+    <g stroke="#000" fill="#fff">
+        <rect class="edge"
+              x="1" y="1" width="18" height="14" rx=".1"/>
+        <line x1="1" y1="15" x2="8" y2="8"/>
+        <line x1="19" y1="15" x2="12" y2="8"/>
+        <path class="flap" stroke-linejoin="round" fill="#fff"
+              d="M1,1 l9,9 l9,-9 z"/>
+    </g>
+</svg>
