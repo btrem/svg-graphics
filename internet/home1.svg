@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+    <title>home</title>
+    <g stroke="#000" fill="#fff">
+        <path class="outline" d="M3,8 l7,-7 l7,7 v11 h-14 z"/>
+        <line class="eave" x1="3" y1="8" x2="1" y2="10"/>
+        <line class="eave" x1="17" y1="8" x2="19" y2="10"/>
+        <rect class="door" x="8" y="13" width="3.5" height="6"/>
+    </g>
+</svg>

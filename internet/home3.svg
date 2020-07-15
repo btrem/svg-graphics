@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+    <title>home</title>
+    <g>
+        <path class="outline"
+              d="M3,10
+                 l7,-7 l7,7
+                 v9.75 h-5.5
+                 v-5 h-3 v5
+                 h-5.5
+                 z"/>
+        <path class="roof" stroke="#000" fill="none"
+              d="M1.5,10.5 l8.5,-8.5 l8.5,8.5"/>
+    </g>
+</svg>

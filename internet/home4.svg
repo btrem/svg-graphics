@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+    <title>home</title>
+    <g stroke-linejoin="round">
+        <path class="outline" stroke="#000"
+              d="M3,9.5
+                 l7,-6.5 l7,6.5
+                 v9.75 h-5
+                 v-5 h-4 v5
+                 h-5
+                 z"/>
+        <path class="roof"
+              stroke="#000" stroke-linecap="round" fill="none"
+              d="M1.5,9.3 l8.5,-8 l8.5,8"/>
+    </g>
+</svg>
