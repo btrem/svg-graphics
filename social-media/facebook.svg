@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+    <title>Facebook</title>
+    <rect x="1" y="1"
+          width="18" height="18" rx="2"
+          fill="#3e5b99" stroke="#3e5b99"/>
+    <text fill="white" font-size="23"
+          font-family="" font-weight="bold"
+          x="8" y="19.5">
+        f
+    </text>
+</svg>
