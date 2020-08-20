@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20">
+	<g stroke="#000" fill="none">
+		<rect class="edge"
+			  x="1" y="1" width="28" height="18" rx="1"/>
+		<line class="seam" x1="1" y1="19" x2="11" y2="9"/>
+		<line class="seam" x1="29" y1="19" x2="19" y2="9"/>
+		<path class="flap" stroke-linejoin="round"
+			  d="M1,1  l14,12  l14,-12"/>
+	</g>
+	<text x="50%" y="8"
+		  text-anchor="middle"
+		  font-size="7" font-weight="bold">
+		@
+	</text>
+</svg>
