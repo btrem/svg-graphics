@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 20">
+    <title>YouTube</title>
+    <rect class="container" x="1" y="1"
+          width="25" height="18" rx="3" ry="5" fill="#f00"/>
+    <polygon class="play" fill="#fff"
+             points="11,6 11,14 18,10"/>
+</svg>
