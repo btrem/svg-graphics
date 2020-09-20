@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 16">
     <title>coffee cup</title>
-    <g stroke="#000" fill="#fff">
+    <g stroke="#000" fill="none">
         <path class="cup"
               d="M 1,5 v 7.5 q 0,3 4,4 h 6 q 3,0 4,-4 v -7.5 z" />
         <path class="handle"
