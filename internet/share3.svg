@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <title>share</title>
+    <g fill="none" stroke="#000" stroke-width="42" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M84 252 v210  h336 v-210"/>
+        <path d="M252 315 v-273 m-84 84 l84 -84 l84 84"/>
+    </g>
+</svg>
